@@ -8,6 +8,8 @@ I hope to be a great programmer.
 
 ## SKILLS
 ### Languages
++ C/C++
++ Java
 ## Table of Contents
 + [Background](##Background)
 + [C/C++](##C/C++)
