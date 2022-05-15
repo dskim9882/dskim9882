@@ -12,11 +12,8 @@ I hope to be a great programmer.
 + Java
 ## Table of Contents
 + [Background](##Background)
-+ [C/C++](##C/C++)
-+ [Data Structure](##Data-Structure)
-+ [Operating System](##Operating-System)
 ## Background
 MAJOR : Electric Engineering
-## C/C++
-## Data Structure
-## Operating System
+## Repositories
+* TIL : Today I learned
+* BOJ : Baekjoon Online Judge
