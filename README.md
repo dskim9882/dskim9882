@@ -14,8 +14,8 @@ I hope to be a great programmer.
 + [Background](https://github.com/dskim9882#Background)
 + [Repositories](https://github.com/dskim9882#Repositories)
 ## Background
-MAJOR : Electric Engineering
-MINOR : Computer Science and Engineering
++ MAJOR : Electric Engineering
++ MINOR : Computer Science and Engineering
 ## Repositories
 * [TIL](https://github.com/dskim9882/Today_I_Learned) : Today I learned
 * [BOJ](https://github.com/dskim9882/BOJ) : Baekjoon Online Judge
